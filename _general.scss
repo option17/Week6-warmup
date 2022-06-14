@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    place-items: center;
+    grid-template-columns: auto 1fr auto;
+    min-height: 100vh;
+    
+}
+
+img {
+    width: 100%;
+}
